@@ -3,7 +3,7 @@ import { forecastType } from "../types"
 import Sunrise from "./Icons/Sunrise"
 import Sunset from "./Icons/Sunset"
 import Tile from "./Tile"
-
+ //hello
 type Props = {
     data: forecastType
 }
